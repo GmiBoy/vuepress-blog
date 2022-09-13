@@ -1,6 +1,6 @@
 module.exports = {
-  title: "GmiBoy",
-  description: '热爱生活',
+  title: "SQLee",
+  description: 'SQLee不写SQL',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

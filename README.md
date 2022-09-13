@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: SQLee的知识空间
+tagline: 韶华易逝，不负热爱
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
